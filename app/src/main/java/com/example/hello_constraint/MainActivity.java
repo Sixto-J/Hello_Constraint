@@ -53,3 +53,6 @@ public class MainActivity extends AppCompatActivity {
 
 }
 
+
+// android:configChanges="orientation|screenSize|screenLayout"
+
